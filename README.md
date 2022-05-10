@@ -1,7 +1,7 @@
 # Origamid Bikcraft
 
-![image](https://user-images.githubusercontent.com/62439381/167528888-2fe0709d-a1c8-45d7-a032-413698c14075.png)
-![image](https://user-images.githubusercontent.com/62439381/167529291-6f3cf7d2-6ed2-4764-8ad1-00442806c06a.png)
+![image](https://user-images.githubusercontent.com/62439381/167651805-f65c9150-19f6-4b61-93ed-6f537a2afde9.png)
+![image](https://user-images.githubusercontent.com/62439381/167651973-631673f1-e148-43ee-afc4-5b754bccfcdf.png)
 
 # Link do site
 
