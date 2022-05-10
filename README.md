@@ -2,7 +2,7 @@
 
 <h3>&nbsp;<img width="32px" src="https://user-images.githubusercontent.com/62439381/159175059-0ea4a795-21f9-43f4-a9db-afc3a21ab780.gif">&nbsp;Clique aqui:</h3>
 
-**<h3>➡️&nbsp;https://cvrocha.github.io/Bikcraft-Origamid/ ⬅️&nbsp;</h3>**
+**<h3>➡️&nbsp;https://cvrocha.github.io/First-Bikcraft/ ⬅️&nbsp;</h3>**
 
 #
 ![image](https://user-images.githubusercontent.com/62439381/167651805-f65c9150-19f6-4b61-93ed-6f537a2afde9.png)
