@@ -1,14 +1,13 @@
 # Origamid Bikcraft
 
 ![image](https://user-images.githubusercontent.com/62439381/167528888-2fe0709d-a1c8-45d7-a032-413698c14075.png)
+![image](https://user-images.githubusercontent.com/62439381/167529291-6f3cf7d2-6ed2-4764-8ad1-00442806c06a.png)
 
 # Link do site
 
-1. Abrir o **Extensions** sidebar panel no VS Code. `View → Extensions`
-2. Procurar por `Origamid Theme`
-3. Clicar em **Install**
-4. Clicar em **Reload**
-5. Ir em Code > Preferences > Color Theme > **Origamid**
+# <h3>&nbsp;<img width="32px" src="https://user-images.githubusercontent.com/62439381/159175059-0ea4a795-21f9-43f4-a9db-afc3a21ab780.gif">&nbsp;**Clique aqui:**</h3>
+
+**<h3>➡️&nbsp;https://cvrocha.github.io/Bikcraft-Origamid/ ⬅️&nbsp;</h3>**
 
 ## Tipografia Recomendada
 
