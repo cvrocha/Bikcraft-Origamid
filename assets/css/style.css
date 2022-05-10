@@ -50,15 +50,16 @@ ul {
 	font-weight: 600;
 	text-align: center;
 	text-transform: uppercase;
+	font-size: 20px;
 }
 
 .items__menu:hover {
-	background-color: #ee2211;
+	background-color: #3211ee;
 	color: #000000;
 }
 
 .items__bg:hover {
-	background-color: #ee2211;
+	background-color: #3211ee;
 	color: #000000;
 }
 
@@ -117,9 +118,10 @@ ul {
 	justify-content: center;
 	text-align: center;
 	border-radius: 4px;
-	background-color: #ee2211;
+	background-color: #3211ee;
 	width: 140px;
 	height: 50px;
+	font-size: 20px;
 	font-weight: 600;
 	margin-right: 40px;
 	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
@@ -133,12 +135,12 @@ ul {
 }
 
 .container__button:hover {
-	background-color: orange;
+	background-color: #0d0058;
 	color: #fff;
 }
 
 .button__a:hover {
-	background-color: orange;
+	background-color: #0d0058;
 	color: #fff;
 }
 
@@ -156,13 +158,13 @@ ul {
 }
 
 .bg__red {
-	background-color: #ee2211;
+	background-color: #3211ee;
 	width: 60px;
 	height: 4px;
 	display: inline-block;
 	position: absolute;
 	top: 275px;
-	right: 643px;
+	right: 843px;
 }
 
 .container__textos {
@@ -176,7 +178,7 @@ ul {
 	height: 396px;
 	flex-wrap: nowrap;
 	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
-		rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+		rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px 0px 0px;
 	gap: 0px;
 }
 
@@ -211,7 +213,7 @@ ul {
 .container__vantagem {
 	flex-direction: column;
 	display: flex;
-	align-items: flex-end;
+	align-items: flex-start;
 	justify-content: center;
 	text-align: center;
 	width: 500px;
@@ -224,11 +226,11 @@ ul {
 
 .vantegens__position {
 	display: flex;
-	align-items: flex-end;
+	align-items: flex-start;
 	justify-content: center;
-	text-align: end;
-	padding-left: 20px;
-	margin-left: 20px;
+	text-align: start;
+	padding-left: 0px;
+	margin-left: 0px;
 }
 
 .vantegens__position p {
@@ -246,7 +248,7 @@ ul {
 
 .icone__titulo i {
 	width: 40px;
-	color: #ee2211;
+	color: #3211ee;
 }
 
 .position__textos {
