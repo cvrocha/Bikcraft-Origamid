@@ -5,7 +5,7 @@
 **<h3>➡️&nbsp;https://cvrocha.github.io/First-Bikcraft/ ⬅️&nbsp;</h3>**
 
 #
-![image](https://user-images.githubusercontent.com/62439381/167651805-f65c9150-19f6-4b61-93ed-6f537a2afde9.png)
+![cvrocha github io_First-Bikcraft_](https://user-images.githubusercontent.com/62439381/185506504-7f681673-e393-4080-a19f-0ebbe8f96514.png)
 
 ## Sobre 📝
 Bikcraft é uma empresa (fictícia) de bicicletas com um estilo próprio.
