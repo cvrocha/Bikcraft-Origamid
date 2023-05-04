@@ -21,7 +21,7 @@ O projeto tem um header contendo o menu de navegação do site, que vai direcion
 ```
 # Cores
 
-cinza-fundo: #f7f7f7
+cinza-fundo: #f3f3f3
 cinza-texto: #c6c6c6
 Azul: #3211ee;
 Azul Hover: #0d0058;
